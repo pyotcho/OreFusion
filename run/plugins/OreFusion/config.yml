@@ -1,0 +1,11 @@
+loot:
+  spawnChance: 0.05
+features:
+  veinMinerEnabled: true
+  autoSmeltingEnabled: true
+limits:
+  maxBlocksPerCycle: 30
+drop:
+  dropIfNoSpace: true
+logging:
+  debug: false

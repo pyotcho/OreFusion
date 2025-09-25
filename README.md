@@ -27,6 +27,11 @@ limits:
 drop:
 - dropIfNoSpace: true        # If no space in inventory other drop will be dropped on the ground
 
+## How to obtain enchantment
+
+1. /rune give <player> veinsmelt
+2. Find in chests (dungeons and fortress)
+
 ## How to use enchantment
 
 1. Take that in main hand

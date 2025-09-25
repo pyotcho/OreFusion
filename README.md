@@ -27,3 +27,7 @@ limits:
 drop:
 - dropIfNoSpace: true        # If no space in inventory other drop will be dropped on the ground
 
+## How to use enchantment
+
+1. Take that in main hand
+2. RMB and select pickaxe which want to enchane

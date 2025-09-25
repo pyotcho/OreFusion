@@ -29,7 +29,7 @@ drop:
 
 ## How to obtain enchantment
 
-1. /rune give <player> veinsmelt
+1. /rune give <player> vein_smelt
 2. Find in chests (dungeons and fortress)
 
 ## How to use enchantment

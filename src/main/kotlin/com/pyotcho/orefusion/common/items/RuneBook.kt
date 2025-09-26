@@ -31,10 +31,6 @@ class RuneBook {
         return itemStack?.clone()
     }
 
-    fun getKey(): NamespacedKey? {
-        return key
-    }
-
     fun getKeyName(): String? {
         return keyName
     }
